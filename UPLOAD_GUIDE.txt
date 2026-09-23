@@ -1,17 +1,20 @@
-SNF Wire Solutions Website v2 - FIXED
+SNF Wire Solutions v3 - six distinct gallery images
 
-Your current GitHub repository already has these files at the root:
-CNAME, index.html, style.css, script.js, logo.svg, harness-hero.webp, harness-workbench.webp
-
-Upload/replace:
+Upload/replace these files in the GitHub repository root:
 - index.html
 - style.css
+- automotive.webp
+- industrial.webp
+- control-panel.webp
+- connectors.webp
+- prototype.webp
+- repair.webp
+
+Keep your existing:
+- CNAME
 - script.js
 - logo.svg
 - harness-hero.webp
 - harness-workbench.webp
 
-IMPORTANT:
-- Keep your existing CNAME file in GitHub.
-- Do not upload the ZIP itself as the website.
-- All image references in this version point to the repository root.
+The six gallery cards now use different images.
