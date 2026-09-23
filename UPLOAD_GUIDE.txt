@@ -1,0 +1,17 @@
+SNF Wire Solutions Website v2 - FIXED
+
+Your current GitHub repository already has these files at the root:
+CNAME, index.html, style.css, script.js, logo.svg, harness-hero.webp, harness-workbench.webp
+
+Upload/replace:
+- index.html
+- style.css
+- script.js
+- logo.svg
+- harness-hero.webp
+- harness-workbench.webp
+
+IMPORTANT:
+- Keep your existing CNAME file in GitHub.
+- Do not upload the ZIP itself as the website.
+- All image references in this version point to the repository root.
